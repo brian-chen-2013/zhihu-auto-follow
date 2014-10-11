@@ -1,0 +1,12 @@
+www.zhihu.com，知乎，是一个问答社区。
+
+这个python脚本在知乎上自动关注所有粉丝
+
+需要安装requests库
+http://docs.python-requests.org/en/latest/
+
+
+
+
+
+
